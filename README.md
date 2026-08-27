@@ -18,7 +18,7 @@
 ╠════════════════════════════════════════════════════════════════════════════╣
 ║                           ⚡ KEY ACHIEVEMENTS ⚡                          ║
 ╠════════════════════════════════════════════════════════════════════════════╣
-║         🏆 HackerRank Orchestrate '26 | Global Rank: 971 / 1,000+          ║
+║         🏆 HackerRank Orchestrate '26 | Global Rank: 971 out of 12k registrations    ║
 ║       ⚙️ DISTRIBUTED RATE LIMITER   | <10ms Latency, 99.99% Accuracy       ║
 ║     🤖 BROWSER AUTOMATION AGENT   | 40+ hrs/yr → 15 min oversight          ║
 ║       📊 DATA SCIENCE @ CareVo      | 5,000+ Records, 3+ Dashboards        ║
