@@ -34,7 +34,7 @@
 ║                               🔗 CONNECT 🔗                               ║
 ╠════════════════════════════════════════════════════════════════════════════╣
 ║                   💼 LinkedIn: in/kaushik-ramanathan                       ║
-║                 📧 Email: kaushik.ramanathan at yahoo                      ║
+║                 📧 Email: kaushik.ramanathan@ yahoo.com                     ║
 ║                     🐙 GitHub: kaushik-ramanathan                          ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
