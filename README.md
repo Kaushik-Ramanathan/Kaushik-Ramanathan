@@ -1,5 +1,6 @@
 <div align="center">
 <pre>
+<font color="#4AF626">
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                                                                            ║
 ║    ██╗  ██╗ █████╗ ██╗   ██╗███████╗██╗  ██╗██╗██╗  ██╗                    ║
@@ -12,7 +13,7 @@
 ║                  🚀 DISTRIBUTED SYSTEMS ARCHITECT 🚀                      ║
 ║                   🤖 AGENTIC AI • EDGE COMPUTING 🤖                       ║
 ║                  ⚡ SUB-MILLISECOND LATENCY OBSESSED ⚡                   ║
-║               📍 Chennai, India | SRMIST CS'28 | CGPA: 9.73               ║
+║               📍 Chennai, India | SRMIST CS'28 | CGPA: 9.73                ║
 ║                                                                            ║
 ╠════════════════════════════════════════════════════════════════════════════╣
 ║                           ⚡ KEY ACHIEVEMENTS ⚡                          ║
@@ -32,10 +33,11 @@
 ╠════════════════════════════════════════════════════════════════════════════╣
 ║                               🔗 CONNECT 🔗                               ║
 ╠════════════════════════════════════════════════════════════════════════════╣
-║               💼 LinkedIn: /in/kaushik-ramanathan-99873a327                ║
-║                   📧 Email: kaushik.ramanathan@yahoo.com                   ║
-║                       🐙 GitHub: /kaushik-ramanathan                       ║
+║                   💼 LinkedIn: in/kaushik-ramanathan                       ║
+║                 📧 Email: kaushik.ramanathan at yahoo                      ║
+║                     🐙 GitHub: kaushik-ramanathan                          ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
+</font>
 </pre>
 </div>
