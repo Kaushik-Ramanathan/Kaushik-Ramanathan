@@ -13,7 +13,7 @@
 ║                      🚀 DISTRIBUTED SYSTEMS ARCHITECT 🚀                      ║
 ║                       🤖 AGENTIC AI • EDGE COMPUTING 🤖                       ║
 ║                      ⚡ SUB-MILLISECOND LATENCY OBSESSED ⚡                   ║
-║                  📍 Chennai, India | SRMIST CS'28 | CGPA: 8.5                  ║
+║                  📍 Chennai, India | SRMIST CS'28 | CGPA: 9.73                 ║
 ║                                                                                ║
 ╠════════════════════════════════════════════════════════════════════════════════╣
 ║                             ⚡ KEY ACHIEVEMENTS ⚡                            ║
