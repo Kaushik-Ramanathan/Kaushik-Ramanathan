@@ -10,7 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaushik-Ramanathan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushik.ramanathan@yahoo.com)
 
-<img src="https://komarev.com/ghpvc/?username=Kaushik-Ramanathan&style=flat-square&color=58A6FF&label=Profile+Views"/>
 
 </div>
 
