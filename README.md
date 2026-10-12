@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-ramanathan-99873a327/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaushik-Ramanathan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Koushik_Bharadwaj/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushik.ramanathan@yahoo.com)
 
 <img src="https://komarev.com/ghpvc/?username=Kaushik-Ramanathan&style=flat-square&color=58A6FF&label=Profile+Views"/>
@@ -172,8 +171,6 @@ I like being around curious people who ask:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-ramanathan-99873a327/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kaushik-Ramanathan)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Koushik_Bharadwaj/)
 &nbsp;
 [![Email](https://img.shields.io/badge/kaushik.ramanathan@yahoo.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaushik.ramanathan@yahoo.com)
 
